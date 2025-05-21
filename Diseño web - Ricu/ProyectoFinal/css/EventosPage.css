@@ -1,0 +1,569 @@
+.frame-child {
+  	width: 31px;
+  	position: relative;
+  	height: 29px;
+}
+.tunetrendy {
+  	width: 334px;
+  	position: relative;
+  	display: flex;
+  	align-items: center;
+  	height: 55px;
+  	flex-shrink: 0;
+}
+.group-parent {
+  	width: 212px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 16px;
+  	cursor: pointer;
+  	font-family: 'Julius Sans One';
+}
+.msica {
+  	width: 95px;
+  	position: relative;
+  	display: flex;
+  	align-items: center;
+  	height: 29px;
+  	flex-shrink: 0;
+  	cursor: pointer;
+}
+.inicio {
+  	width: 74px;
+  	position: relative;
+  	display: flex;
+  	align-items: center;
+  	height: 29px;
+  	flex-shrink: 0;
+  	cursor: pointer;
+}
+.eventos {
+  	width: 101px;
+  	position: relative;
+  	display: flex;
+  	align-items: center;
+  	height: 29px;
+  	flex-shrink: 0;
+  	cursor: pointer;
+}
+.videos {
+  	width: 107px;
+  	position: relative;
+  	display: flex;
+  	align-items: center;
+  	height: 29px;
+  	flex-shrink: 0;
+  	cursor: pointer;
+}
+.msica-parent {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 16px;
+}
+.frame-container {
+  	position: absolute;
+  	top: 13px;
+  	left: 0px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 3px 0px;
+}
+.frame-wrapper {
+  	width: 513px;
+  	position: relative;
+  	height: 55px;
+  	font-size: 28px;
+}
+.login {
+  	position: relative;
+  	font-weight: 600;
+}
+.login-wrapper {
+  	border-radius: 100px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 4px 16px;
+}
+.sing-up-wrapper {
+  	border-radius: 100px;
+  	background-color: #319fff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 4px 16px;
+}
+.frame-group {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 20px;
+  	font-size: 24px;
+}
+.frame-parent {
+  	align-self: stretch;
+  	background-color: #fff;
+  	height: 119px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 32px;
+  	box-sizing: border-box;
+  	gap: 208px;
+  	text-align: left;
+  	font-size: 32px;
+}
+.no-te-pierdas {
+  	align-self: stretch;
+  	position: relative;
+  	display: inline-block;
+  	height: 149px;
+  	flex-shrink: 0;
+}
+.aqu-en-tunetrendy {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 20px;
+  	display: flex;
+  	align-items: center;
+  	height: 69px;
+  	flex-shrink: 0;
+}
+.no-te-pierdas-de-los-prximos-parent {
+  	width: 1110px;
+  	height: 233px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 0px 14px;
+  	box-sizing: border-box;
+}
+.fito-pez-dar {
+  	flex: 1;
+  	position: relative;
+  	display: flex;
+  	align-items: center;
+  	height: 65px;
+}
+.fito-pez-dar-conciertos-en-m-wrapper {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 0px 15px;
+}
+.image-25-icon {
+  	align-self: stretch;
+  	position: relative;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.fito-pez-dar-cuatro {
+  	flex: 1;
+  	position: relative;
+  	display: flex;
+  	align-items: center;
+  	height: 119px;
+}
+.fito-pez-dar-cuatro-conciert-wrapper {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 0px 15px;
+  	font-size: 20px;
+}
+.frame-div {
+  	width: 920px;
+  	background-color: #fff;
+  	height: 768px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	font-size: 38px;
+}
+.shakira-en-mxico {
+  	align-self: stretch;
+  	position: relative;
+  	display: flex;
+  	align-items: center;
+  	height: 113px;
+  	flex-shrink: 0;
+}
+.shakira-se-presentar {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 20px;
+  	display: flex;
+  	align-items: center;
+  	height: 186px;
+  	flex-shrink: 0;
+  	margin-top: -44px;
+}
+.shakira-en-mxico-2025-parent {
+  	align-self: stretch;
+  	background-color: #fff;
+  	height: 255px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 0px 14px;
+  	box-sizing: border-box;
+}
+.image-parent {
+  	width: 1110px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+}
+.image-icon1 {
+  	align-self: stretch;
+  	position: relative;
+  	max-width: 100%;
+  	overflow: hidden;
+  	height: 459px;
+  	flex-shrink: 0;
+  	object-fit: cover;
+}
+.justin-timberlake-regresa {
+  	align-self: stretch;
+  	position: relative;
+  	display: flex;
+  	align-items: center;
+  	height: 145px;
+  	flex-shrink: 0;
+}
+.justin-timberlake-ha {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 20px;
+  	display: flex;
+  	align-items: center;
+  	height: 231px;
+  	flex-shrink: 0;
+  	margin-top: -96px;
+}
+.justin-timberlake-regresa-a-m-parent {
+  	align-self: stretch;
+  	background-color: #fff;
+  	height: 248px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 0px 14px;
+  	box-sizing: border-box;
+}
+.image-group {
+  	width: 1110px;
+  	height: 710px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+}
+.image-icon2 {
+  	align-self: stretch;
+  	position: relative;
+  	max-width: 100%;
+  	overflow: hidden;
+  	height: 456px;
+  	flex-shrink: 0;
+  	object-fit: cover;
+}
+.miguel-bos-anuncia {
+  	align-self: stretch;
+  	position: relative;
+  	display: flex;
+  	align-items: center;
+  	height: 230px;
+  	flex-shrink: 0;
+}
+.miguel-bos-regresa {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 20px;
+  	display: flex;
+  	align-items: center;
+  	height: 231px;
+  	flex-shrink: 0;
+  	margin-top: -117px;
+}
+.miguel-bos-anuncia-conciertos-parent {
+  	align-self: stretch;
+  	background-color: #fff;
+  	height: 282px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 0px 14px;
+  	box-sizing: border-box;
+}
+.image-container {
+  	width: 1110px;
+  	height: 739px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+}
+.katy-perry-realizar-concierto {
+  	align-self: stretch;
+  	position: relative;
+  	display: flex;
+  	align-items: center;
+  	height: 134px;
+  	flex-shrink: 0;
+}
+.katy-perry-visitar {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 20px;
+  	display: flex;
+  	align-items: center;
+  	height: 178px;
+  	flex-shrink: 0;
+  	margin-top: -91px;
+}
+.katy-perry-realizar-concierto-parent {
+  	align-self: stretch;
+  	background-color: #fff;
+  	height: 199px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 0px 14px;
+  	box-sizing: border-box;
+}
+.frame-item {
+  	position: absolute;
+  	top: 16px;
+  	left: 26px;
+  	width: 320px;
+  	height: 299.4px;
+  	z-index: 0;
+}
+.siguenos-en {
+  	width: 190px;
+  	position: relative;
+  	display: flex;
+  	align-items: center;
+  	height: 78px;
+  	flex-shrink: 0;
+}
+.vector-icon {
+  	width: 26px;
+  	position: relative;
+  	height: 26px;
+}
+.vector-icon1 {
+  	width: 25px;
+  	position: relative;
+  	height: 26px;
+}
+.vector-icon2 {
+  	width: 26px;
+  	position: relative;
+  	height: 21px;
+}
+.vector-parent {
+  	height: 54px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 15px 0px 13px;
+  	box-sizing: border-box;
+  	gap: 21px;
+}
+.siguenos-en-parent {
+  	width: 100%;
+  	position: absolute;
+  	top: 16px;
+  	left: 494px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	z-index: 1;
+}
+.diariamente {
+  	width: 168px;
+  	position: relative;
+  	display: flex;
+  	align-items: center;
+  	height: 78px;
+  	flex-shrink: 0;
+}
+.recibe-las-noticias {
+  	flex: 1;
+  	position: relative;
+  	font-size: 24px;
+  	font-weight: 100;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	height: 40px;
+  	text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000;
+}
+.diariamente-parent {
+  	width: 100%;
+  	position: absolute;
+  	top: 95.75px;
+  	left: 494px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 10px;
+  	z-index: 2;
+}
+.trminos-de-uso {
+  	font-weight: 600;
+}
+.al-proporcionar-su-container {
+  	flex: 1;
+  	position: relative;
+}
+.al-proporcionar-su-informacin-wrapper {
+  	width: 100%;
+  	position: absolute;
+  	top: 255.25px;
+  	left: 494px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px;
+  	box-sizing: border-box;
+  	z-index: 3;
+  	font-size: 14px;
+}
+.escribe-tu-correo {
+  	position: relative;
+}
+.escribe-tu-correo-wrapper {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px;
+}
+.vector-icon3 {
+  	width: 15.9px;
+  	position: relative;
+  	height: 24.6px;
+}
+.vector-wrapper {
+  	width: 91px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 10px 10px 10px 66px;
+  	box-sizing: border-box;
+}
+.frame-inner {
+  	width: 280px;
+  	position: relative;
+  	height: 0.6px;
+  	object-fit: contain;
+}
+.frame-parent2 {
+  	position: absolute;
+  	top: 175.5px;
+  	left: 494px;
+  	background-color: #2b2e3c;
+  	width: 302px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	flex-wrap: wrap;
+  	align-content: center;
+  	padding: 0px 0px 9px;
+  	box-sizing: border-box;
+  	gap: 0px 100px;
+  	z-index: 4;
+  	text-align: left;
+  	font-size: 13px;
+}
+.frame-parent1 {
+  	align-self: stretch;
+  	background-color: #101119;
+  	height: 341px;
+  	display: flex;
+  	flex-direction: column;
+  	padding: 16px 10px 10px 26px;
+  	box-sizing: border-box;
+  	position: relative;
+  	gap: 10px;
+  	font-size: 38px;
+  	color: #fff;
+}
+.derechos-reservados-tunetren-wrapper {
+  	align-self: stretch;
+  	background-color: #fff;
+  	height: 72px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px;
+  	box-sizing: border-box;
+}
+.homepageeventos-inner {
+  	align-self: stretch;
+  	height: 70px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 0px 10px 10px;
+  	box-sizing: border-box;
+  	text-align: center;
+  	font-size: 20px;
+}
+.homepageeventos {
+  	width: 100%;
+  	position: relative;
+  	background-color: #f5f5f5;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 42px;
+  	text-align: justify;
+  	font-size: 64px;
+  	color: #000;
+  	font-family: 'Alumni Sans SC';
+}
+
+@media (max-width: 1440px) {
+   .homepageeventos {
+      font-size: 32px;
+   }
+}
